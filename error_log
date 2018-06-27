@@ -1,0 +1,3 @@
+[21-Jun-2018 16:00:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cotichvn/public_html/wp-content/plugins/vietveb_server/vietveb-resoure-zip.php on line 2
+[21-Jun-2018 16:00:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cotichvn/public_html/wp-content/plugins/vietveb_server/vietveb-resoure-zip.php on line 2
+[21-Jun-2018 16:12:08 UTC] PHP Notice:  Trying to get property of non-object in /home/cotichvn/public_html/wp-content/plugins/vietveb_server/vietveb-resoure-zip.php on line 11
